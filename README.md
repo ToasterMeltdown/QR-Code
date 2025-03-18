@@ -86,6 +86,6 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 
-## Solution:
+## My Solution:
 ![image](https://github.com/user-attachments/assets/6486b145-f233-49be-beb9-7cd96a9d8eef)
 
